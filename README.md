@@ -178,6 +178,9 @@ Some of the most useful indicators were:
 The results show that machine learning can help identify patterns in healthcare data, but the model should not be treated as a medical diagnosis. It is only a prediction tool based on the dataset.
 <img width="530" height="453" alt="image" src="https://github.com/user-attachments/assets/959a669b-369a-4711-a6fb-760dd6ff8bc9" />
 
+<img width="530" height="453" alt="image" src="https://github.com/user-attachments/assets/6e5fd057-d2bd-413b-aa67-3ebcdb40d8d3" />
+<img width="567" height="453" alt="image" src="https://github.com/user-attachments/assets/f29ba703-d692-4a9e-a0e2-2fca3e380537" />
+<img width="576" height="620" alt="image" src="https://github.com/user-attachments/assets/2261303e-1a17-4eb1-bf56-b8dae7018a13" />
 
 ---
 
