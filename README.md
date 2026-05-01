@@ -176,6 +176,7 @@ Some of the most useful indicators were:
 - Age
 
 The results show that machine learning can help identify patterns in healthcare data, but the model should not be treated as a medical diagnosis. It is only a prediction tool based on the dataset.
+<img width="530" height="453" alt="image" src="https://github.com/user-attachments/assets/959a669b-369a-4711-a6fb-760dd6ff8bc9" />
 
 
 ---
