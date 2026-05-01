@@ -118,6 +118,8 @@ The graphs helped show patterns in features such as:
 - Blood Pressure
 
 These visualizations helped identify which features seemed most useful for predicting diabetes. Features like glucose, BMI, and age appeared to show stronger differences between diabetic and non-diabetic patients.
+<img width="924" height="693" alt="image" src="https://github.com/user-attachments/assets/93f366d3-7269-4ba4-a65a-7e16cde21e79" />
+
 
 ---
 
